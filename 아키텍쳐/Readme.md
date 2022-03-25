@@ -8,3 +8,4 @@
 |로드밸런서란?|https://junuuu.tistory.com/216?category=994008|
 |API 게이트웨이란? |https://junuuu.tistory.com/200?category=994008|
 |서비스 메시란? + API 게이트웨이와의 차이점 |https://junuuu.tistory.com/206?category=994008|
+|Service Discovoery란? |https://junuuu.tistory.com/219?category=994008|
